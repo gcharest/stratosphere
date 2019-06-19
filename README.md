@@ -1,4 +1,5 @@
 ![Travis-CI Build Icon](https://travis-ci.com/gcharest/stratosphere.svg?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgcharest%2Fstratosphere.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgcharest%2Fstratosphere?ref=badge_shield)
 
 ([Le français suit](#T%C3%A2che))
 
@@ -65,3 +66,7 @@ You will need a GitHub account for this part.
 Petit projet à partager avec les participantes et les participants de Stratosphère pour passer en revue le flux de travail Git.
 
 ## Tâche
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgcharest%2Fstratosphere.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgcharest%2Fstratosphere?ref=badge_large)
